@@ -18,7 +18,7 @@ The purpose of this application is to provide a user-friendly interface for view
 ## Setup
 To set up the project locally, follow these steps:
 
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone https://github.com/vaibhavkanawade/sliderjs.git`
 2. Navigate to the project directory: `cd image-slider`
 
 ## Usage
